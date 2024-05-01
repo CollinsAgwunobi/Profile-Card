@@ -48,3 +48,6 @@ span{
     font-style: italic;
     
 }
+[class*="col-"] {
+    width: 100%;
+  }
