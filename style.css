@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./assest/pexels-frank-cone-140140-3573556.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.profile{
+    background-color: rgba(169, 169, 169, 0.808);
+    width: 40%;
+    margin: auto;
+    border: solid 5px rgba(240, 255, 240, 0.486);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 10%;
+}
+#myimage{
+width: 200px;
+height: 200px;
+border-radius: 100px;
+margin: 5px;
+text-align: center;
+border: solid 5px rgba(240, 255, 240, 0.486);
+
+}
+.name{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(15, 48, 45, 0.774);
+    font-weight: 700;
+}
+
+.description{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(240, 255, 240, 0.486);
+    border: solid 2px rgb(82, 64, 64);
+    border-radius: 10px;
+    font-size: larger;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+span{
+    font-style: italic;
+    
+}
